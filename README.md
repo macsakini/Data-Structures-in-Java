@@ -5,3 +5,21 @@ Each file in this repository is a snippet of the java function assigned. The nam
 i.e getset.java includes getters and setters.
 
 An example includes
+```java
+public static void main(String[] args){
+        int a, b, c;
+        a = 1;
+        b = 2;
+        c = 3;
+
+        HashMap<String,Integer> happy = new HashMap<>();
+
+        happy.put("a", a);
+        happy.put("b", b);
+        happy.put("c",c);
+
+
+        System.out.println(happy.get("c"));
+}
+)
+```
