@@ -11,22 +11,21 @@ import java.util.HashMap;
 
 public class hashmapy {
     
-        public static void main(String[] args){
-                int a, b, c;
-                a = 1;
-                b = 2;
-                c = 3;
+    public static void main(String[] args){
+            int a, b, c;
+            a = 1;
+            b = 2;
+            c = 3;
 
-                HashMap<String,Integer> happy = new HashMap<>();
+            HashMap<String,Integer> happy = new HashMap<>();
 
-                happy.put("a", a);
-                happy.put("b", b);
-                happy.put("c",c);
+            happy.put("a", a);
+            happy.put("b", b);
+            happy.put("c",c);
 
 
-                System.out.println(happy.get("c"));
-        }
-        )
+            System.out.println(happy.get("c"));
+    })
  }
 ```
 
