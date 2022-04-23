@@ -1,5 +1,3 @@
-package questions;
-
 import java.util.Scanner;
 
 class trycatch {

@@ -1,4 +1,3 @@
-package questions;
 import java.util.HashMap;
 
 public class hashmapy {

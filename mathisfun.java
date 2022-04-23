@@ -26,7 +26,7 @@ class mathisfun {
 
         //declarative
         a.stream()
-            .forEach(System.out.println(8))
+            //.forEach(System.out.println(8))
             .collect(Collectors.toList());
     }    
 }

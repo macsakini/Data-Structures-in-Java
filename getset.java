@@ -1,4 +1,3 @@
-package questions;
 
 class GetSet{
     String name;

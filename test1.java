@@ -1,5 +1,3 @@
-package questions;
-
 import javax.swing.*;  
 
 public class test1 {  
